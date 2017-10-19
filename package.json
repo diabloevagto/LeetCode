@@ -1,0 +1,15 @@
+{
+  "name": "LeetCode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "leetcode show -g -x -l javascript",
+    "test": "leetcode test",
+    "submit": "leetcode submit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
